@@ -3,6 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Application", "NetCore.Application", "{6A3B06C2-26B9-444A-BCAB-774D18D5556A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Domain", "NetCore.Domain", "{DAABE066-9E53-4D18-B7A4-4687BD620C7E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Infra.IoC", "NetCore.Infra.IoC", "{5E046313-E204-4BA6-98F5-A384C6327615}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.Infra.Data", "NetCore.Infra.Data", "{0AEF8B60-3C4B-411D-AE23-FD5CF302C010}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NetCore.UI.Mvc", "NetCore.UI.Mvc", "{FB462742-73AF-4023-B573-9621BF1FFCB8}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
